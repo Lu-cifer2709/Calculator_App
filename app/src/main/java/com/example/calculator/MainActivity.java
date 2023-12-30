@@ -110,10 +110,10 @@ public class MainActivity extends AppCompatActivity {
             double result;
             switch (operation) {
                 case "/":
-                    result = firstNum/secondNum;
+                    result = firstNum / secondNum;
                     break;
 
-                case "X":
+                case "x":
                     result = firstNum * secondNum;
                     break;
 
